@@ -1,6 +1,6 @@
 ## 👋 Hello, Im Jonathan!
 * 🎓 Software Engineering student studying at the University of Guelph, Canada.
-* 🦀 Currently coding a majority of projects in Rust
+* 🦀 Currently coding a majority of projects in Rust and C
 * 🖳 Looking to invest more time into functional languages (ie. Haskell, Scheme) in near future.
 
 <div align="center">
