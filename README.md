@@ -4,20 +4,12 @@
 * 𝝺 Looking to invest more time into functional languages (ie. Haskell, Scheme) in near future.
 
 <div align="center">
-  <h4>Languages I use:</h4>
-  <img src= "https://img.shields.io/badge/-Rust-F46623?style=flat-square&logo=Rust&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-
-  <h4>Tools I use:</h4>
-  <img src= "https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=Arch-Linux&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/-Debian_Linux-A81D33?style=flat-square&logo=Debian&logoColor=white"/>
-  <br>
-  <img src= "https://img.shields.io/badge/-GNU_Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/>
+  <p><b>My Configurations:</b></p>
+  <a href="https://github.com/KairosJK/nixos-config"><img src="https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=NixOS&logoColor=white"></a>
+  <a href="https://github.com/KairosJK/nixos-config/blob/main/modules/shells/zsh/default.nix"><img src="https://img.shields.io/badge/-zsh-6D4C9F?style=flat-square&logo=GNOME-terminal&logoColor=white"></a>
+    <a href="https://github.com/KairosJK/nixos-config/blob/main/modules/i3/default.nix"><img src="https://img.shields.io/badge/-i3wm-7DCDA3?style=flat-square&logo=CodeSandbox&logoColor=white"></a>
+  <p><b>Other Accounts:</b></p>
+  <a href="https://gitlab.com/jonathan.kocevar"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"></a>
+   <a href="https://www.instagram.com/jonkocey/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+   <a href="https://kairosjk.github.io/"><img src="https://img.shields.io/badge/-My_Website-4A86CF?style=flat-square&logo=diagrams.net&logoColor=white"></a>
 </div>
